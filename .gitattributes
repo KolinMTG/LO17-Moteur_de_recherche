@@ -1,2 +1,10 @@
-*.html linguist-detectable=false
+# Forcer Python comme langage principal
+*.py linguist-detectable=true
 *.py linguist-language=Python
+
+# Ignorer les fichiers HTML
+*.htm linguist-detectable=false
+*.html linguist-detectable=false
+
+# (Optionnel) ignorer un dossier complet
+BULLETINS/* linguist-detectable=false
