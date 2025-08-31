@@ -1,0 +1,14 @@
+beautifulsoup4==4.11.1
+black==22.6.0
+dateparser==1.2.1
+lxml==4.9.1
+nltk==3.7
+numpy==1.24.4
+pandas==1.4.4
+platform==4.3.6
+pyqt5==5.15.9
+pylint==2.14.5
+regex==2022.7.9
+snowballstemmer==2.2.0
+spacy==3.8.3
+tqdm==4.64.1
